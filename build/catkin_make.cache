@@ -1,0 +1,2 @@
+myrobot
+-DCATKIN_DEVEL_PREFIX=/home/myrobot/Robotatto/devel -DCMAKE_INSTALL_PREFIX=/home/myrobot/Robotatto/install -G Unix Makefiles
